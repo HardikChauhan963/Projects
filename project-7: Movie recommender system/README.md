@@ -3,6 +3,10 @@
 Welcome to the **Movie Recommendation System**! This project is a simple yet powerful **content-based recommender** built with **Python**, **Streamlit**, and **TMDB movie metadata**.
 
 > 🔍 Find your next favorite movie based on your selected title using **natural language processing** and **cosine similarity**.
+<img width="728" alt= "app_photo" src = "https://github.com/user-attachments/assets/9979721b-2a61-428b-8e67-f8e5e74242fa" />
+<img width="728" alt="Screenshot 2025-07-06 at 21 48 03" src="https://github.com/user-attachments/assets/f1d5fa9c-5f98-4c6f-b278-2cf513675042" />
+
+
 
 ---
 
